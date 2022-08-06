@@ -1,0 +1,3 @@
+"queriesmongodb.txt" contains the description for the Sprint_2, Topic_2,
+queries exercise.
+
